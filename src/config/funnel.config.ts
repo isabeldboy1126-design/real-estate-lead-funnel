@@ -124,7 +124,7 @@ export const funnelConfig: FunnelConfig = {
   company: {
     name: '[COMPANY NAME]',
     logoText: '[COMPANY NAME]',
-    websiteUrl: 'https://example.com',
+    websiteUrl: 'https://mockup-01-land-sales.vercel.app/',
     advisorContactUrl: 'https://wa.me/2340000000000?text=Hello%2C%20I%20would%20like%20to%20speak%20with%20an%20advisor',
     supportEmail: 'contact@example.com',
     bio: 'Two to three sentences explaining who the company is, what relevant experience they have, and why that experience makes this resource worth paying attention to.',
